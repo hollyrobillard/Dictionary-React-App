@@ -8,3 +8,16 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.App .App-footer {
+  padding: 20px 0;
+}
+
+.App .App-footer a {
+  color: black;
+  text-decoration: none;
+}
+
+.App .App-footer a:hover {
+  color: white;
+}
