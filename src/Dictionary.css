@@ -1,0 +1,13 @@
+.Dictionary {
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.Dictionary h1 {
+    font-weight: bold;
+}
+
+.Dictionary h2 {
+    padding-bottom: 20px;
+}
