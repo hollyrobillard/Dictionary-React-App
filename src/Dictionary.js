@@ -6,6 +6,7 @@ export default function Dictionary(props) {
     
     function search(event) {
         event.preventDefault();
+        alert(`Searching for ${word}`)
     }
 
     function updateWordChange(event) {
