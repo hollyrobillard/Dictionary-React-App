@@ -1,0 +1,12 @@
+.Synonyms {
+    margin: 10px 0 0 15px;
+}
+
+.Synonyms .synonym {
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: lightgray;
+    color: black;
+    border: 1px solid white;
+    border-radius: 4px;
+}
