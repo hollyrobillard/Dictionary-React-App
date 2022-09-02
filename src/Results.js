@@ -24,7 +24,7 @@ export default function Results(props) {
     } else {
         return(
             <div className="Results text-left">
-                <h1 className="word .d-none">
+                <h1 className="word d-none">
                     {props.defaultWord.toUpperCase()}
                 </h1>
             </div>
