@@ -1,0 +1,11 @@
+.Meaning {
+    margin: 30px 0;
+}
+
+.Meaning .definition {
+    margin: 20px 0;
+}
+
+.Meaning .definition em {
+    margin-left: 15px;
+}
