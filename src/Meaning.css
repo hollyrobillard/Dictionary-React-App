@@ -9,3 +9,7 @@
 .Meaning .definition em {
     margin-left: 15px;
 }
+
+.Meaning h3 {
+    color: lightgray;
+}

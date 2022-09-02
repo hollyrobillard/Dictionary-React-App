@@ -20,6 +20,9 @@ function App() {
           <div>
             Open Source Code on <a href="https://github.com/hollyrobillard/Dictionary-React-App"  target="_blank" rel="noreferrer">Github</a>
           </div>
+          <div className="footer-logos">
+            <Logo />
+          </div>
         </footer>
       </div>
     </div>
