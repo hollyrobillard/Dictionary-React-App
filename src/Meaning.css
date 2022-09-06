@@ -13,3 +13,16 @@
 .Meaning h3 {
     color: lightgray;
 }
+
+@media (max-width: 400px) {
+    .Meaning {
+        margin: 10px 0;
+    }
+
+    .Meaning h3 {
+        font-size: 25px;
+    }
+    .Meaning .definition em {
+        margin-left: 0px;
+    }
+}
