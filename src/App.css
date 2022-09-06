@@ -1,4 +1,6 @@
 .App {
+  display: block;
+  margin: 0 auto;
   text-align: center;
   background-color: lightgray;
 }
@@ -26,4 +28,22 @@
   padding: 20px 0 0 0;
   display: flex;
   justify-content: space-evenly;
+}
+
+@media (max-width: 400px) {
+  h1 {
+    font-size: 18px;
+  }
+  h2 {
+    font-size: 16px;
+  }
+  h3 {
+    font-size: 14px;
+  }
+  h4 {
+    font-size: 12px;
+  }
+  p {
+    font-size: 10px;
+  }
 }
